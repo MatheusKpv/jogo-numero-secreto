@@ -3,7 +3,7 @@ let numeroSecretoMaximo = 100;
 let numeroSecreto = gerarNumeroSecreto();
 let numeroTentativas = 1;
 msgInicial();
-//teste
+
 
 function verificarChute() {
     let chute = document.querySelector('input').value;
