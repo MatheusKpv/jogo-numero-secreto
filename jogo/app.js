@@ -1,5 +1,5 @@
 let listaNumerosSecretos = [];
-let numeroSecretoMaximo = 10;
+let numeroSecretoMaximo = 100;
 let numeroSecreto = gerarNumeroSecreto();
 let numeroTentativas = 1;
 msgInicial();
