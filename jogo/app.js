@@ -4,7 +4,6 @@ let numeroSecreto = gerarNumeroSecreto();
 let numeroTentativas = 1;
 msgInicial();
 
-
 function verificarChute() {
     let chute = document.querySelector('input').value;
     let tentativa = numeroTentativas > 1 ? 'tentativas' : 'tentativa';
